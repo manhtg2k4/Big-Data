@@ -1,2 +1,3 @@
-dataset_path: /scratch/group/real-fs/dataset/
-retrieved_path: /scratch/group/real-fs/retrieved/
+dataset_path: /kaggle/working/EuroSAT_RGB/
+retrieved_path: /kaggle/working/retrieved/
+output_dir: /kaggle/working/output/
