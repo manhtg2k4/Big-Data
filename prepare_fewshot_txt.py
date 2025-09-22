@@ -90,12 +90,11 @@ if __name__ == '__main__':
         # 'semi-aves', 
         # 'dtd', 
         # 'fgvc-aircraft', 
-        # 'eurosat', 
+        'eurosat', 
         # 'flowers102'
         # 'oxford_pets',
         # 'food101',
         # 'stanford_cars'.
-        'imagenet'
         ]
     # fewshot_ct = [1, 2, 4, 8, 16]
     fewshot_ct = [4, 8, 16]
