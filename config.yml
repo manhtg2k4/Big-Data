@@ -1,3 +1,2 @@
-dataset_path: /kaggle/working/EuroSAT_RGB/
-retrieved_path: /kaggle/working/retrieved/
-output_dir: /kaggle/working/output/
+dataset_path: "/Users/admin/Documents/dataset"
+retrieved_path: "/Users/admin/Documents/dataset"

@@ -7,28 +7,11 @@ plt.rcParams['font.style'] = 'normal'
 plt.rcParams['font.variant'] = 'normal'
 
 NUM_CLASSES_DICT = {
-    'semi-aves': 200,
-    'flowers102': 102,
-    'fgvc-aircraft': 100,
-    'eurosat': 10,
-    'dtd': 47,
-    'food101': 101,
-    'stanford_cars': 196,
-    "oxford_pets": 37,
-    'imagenet': 1000,
-    'semi-inat-2021': 810,
+    'eurosat': 10
 }
 
 NAMES_DICT = {
-    'semi-aves': 'Semi-Aves',
-    'flowers102': 'Flowers',
-    'fgvc-aircraft': 'Aircraft',
-    'eurosat': 'EuroSAT',
-    'dtd': 'DTD',
-    'food101': 'Food',
-    'stanford_cars': 'Cars',
-    'oxford_pets': 'Pets',
-    'imagenet': 'ImageNet',
+    'eurosat': 'EuroSAT'
 }
 
 MARKERSIZE = 12
